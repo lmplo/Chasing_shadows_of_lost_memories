@@ -11,6 +11,7 @@ Chasing shadows of lost memories © 2025 by Alfred Greenwood is licensed under [
 _Lancer_ is copyright Massif Press.
 # Table of contents
 ## Introduction to the world
+- [A brief history](/Introduction/A%20brief%20history)
 ## Running the game
 ## Chapter 1
 ## Chapter 2
