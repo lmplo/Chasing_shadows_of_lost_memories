@@ -12,4 +12,6 @@ The administrative section of the PNL_043_WORLD_NAME management could not see wh
 ### The new age 4565u-4XXXu
 In 4565u, the second committee had cut all investment into PNL_043_WORLD_NAME as revolutionary action had started to take place across the galaxy. Considering the return of the investment into inhabiting WORLD_NAME would be negligible over the course of a civil war. The administrators of the colony were only told this at the last minute, one day they were told they were on their own and that was it.
 
-It hardly took a year for the population to catch on something was off, the guards and militant population were getting more defensive, weapons were poised at eachothers throats. Penal operations shifted further away from terraforming towards manufacturing and agriculture as the colony could no longer rely on 
+It hardly took a year for the population to catch on something was off, the guards and militant population were getting more defensive, weapons were poised at eachothers throats. Penal operations shifted further away from terraforming towards manufacturing and agriculture as the colony could no longer rely on shipments for new supplies. 
+
+The Seccom higher ups of colony were so caught up in their own power struggle to prevent the colonists uprising, that the colonists - with a flash of morale that there were no reinforcements - had an uprising. The conflict happened quickly, within 2 weeks the power dynamic had flipped, the S
