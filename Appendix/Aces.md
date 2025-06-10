@@ -22,9 +22,6 @@ If a player wishes to learn about an NPC's ace, they can use the **information**
 
 With sufficient preparation or use of reserves you may **circumvent** an Ace for a scene or longer. For example, with the **Never Alone** ace, the NPC may always call in reinforcements, but if the players wish to pool a bunch of resources to get a local Jammer to shut down local omninet communications for half a minute or if they head off and sabotage their reinforcements vehicles beforehand, the NPC with the ace will not be able to use it for a limited time. If an ace has been circumvented, the character with it will not know this until they try to use it or it should have acted.
 
-## Ace archetypes
-Aces follow 3 different archetypes: **Reconsossnance, brawn and subterfuge**. This only reflect the vibe of the ace and have no meaningful impact on their performance.
-### Reconousaancne aces
 #### Omniscient
 *Passive*
 This character knows all abilities player characters's have used in previous scenes throughout this campaign, and which equipment has been actively used this mission.
@@ -33,12 +30,18 @@ This character knows all abilities player characters's have used in previous sce
 *passive*
 This character knows when they're being watched unknowingly
 **Reveal:** This character gets watched unknowingly
-### Brawn aces
 #### Wallbreaker
 *Passive*
 Any walls or obstructions cannot stop this character from reaching other characters if they know where they are.
 **Reveal:** This character comes crashing through a wall or other obstruction directly in front of another character.
-### Subterfuge aces
+#### Supernatural maneuverability
+*Passive*
+If this character is trying to get to another location in the same scene such as another character, only one character may act before this character moves at supernatural speeds to that location.
+**Reveal:** This character is about to about to move at supernatural speeds (but has not yet)
+#### Surprise gift
+*Active*
+The first hostile character to get into a close range with this character in a tense scene will become victim to a gnarly trick, this character produces a debilitating attack such as a flash-bang, or a pocket full of sand. The victim then has to choose whether the next course of action they take has +2 DIFFICULTY or reduced effect.
+**Reveal:** Someone gets tricked by a "surprise gift"
 #### Too damn lucky
 *Active*
 This ace may be activated when this character will be killed, the character that would kill them chooses one of the following:
@@ -61,3 +64,7 @@ This character reveals a document, folder, data storage or similar medium of bla
 *Active*
 If this character knows someone in the scene is about to be attacked or harmed, they may immediately say or do something that stops anyone in the scene from harming anyone else for just a moment.
 **Reveal:** This trait is used.
+#### 6th Sense
+*Passive*
+As long as this character has 4 of their 5 senses, they have a good perception of everything around them out to a close range. They have a very limited perception through obstacles and walls, depending on the thickness of the obstacle becoming more limited the thicker the obstruction
+**Reveal:** This character senses something using this trait.

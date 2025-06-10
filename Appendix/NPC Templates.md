@@ -22,10 +22,7 @@ The **Aerial** may choose to count any and all of their movement as **flying**; 
 #### ROTARY BLADES
 The **Aerial** may hover when it moves; however, they take **Size + 1 heat** at the end of any turns in which they **fly** this way.
 
-Additionally whenever the **Aerial** takes damage whilst **hovering**, they must make an engineering check. On a failure, this system is immediately destroyed and **Aerial** begins to fall.
-
-%%Balance this to be a better cost, save on damage is probs a tad too fragile.%%
-
+Additionally whenever the **Aerial** takes damage that would reduce it below half **HP** whilst **hovering**, they must make an engineering check. On a failure, this system is immediately destroyed.
 ### AERIAL SYSTEM AND TRAITS
 #### DIVE BOMB
 *Trait, Free action, 1/round*
