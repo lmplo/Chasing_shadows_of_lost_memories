@@ -1,5 +1,9 @@
 ## Safeguard
-*Ariane sat in front of the relay, it had taken a beating but the upload was still commencing. Only 39% left to go. Her apocalyse rail was spooling up for another shot, against the next wave that would approach. *
+*Ariane sat in front of the relay, it had taken a beating but the upload was still commencing. Only 39% left to go. Her apocalyse rail was spooling up for another shot, against the next wave that would approach.*
+
+*She looked over to her sergeant who's solidcore just finished cooling down with another charge as the sergeant hastily threw their broken rifle to the side. In this moment of respite amongst the remains of their fallen squad, the two of them locked eyes and gave an affirming nod. Without a word spoken they both new they wouldn't be leaving this planet alive, but they won't be failing to protect the relay before the upload was finished.*
+
+*With 27% left, Ariane sees more hostiles approaching on sensors, and levels her howitzer for more.*
 ### Victory conditions
 - **PC Victory:** By the end of the **8th round** the **protection objective** has not yet been destroyed.
 - **Enemy victory:** The **protection objective** has been destroyed before the end of the **8th round**
@@ -23,7 +27,7 @@ The **Protection objective** is never a **valid target** from any **hostile char
 If an **allied character** adjacent to the **protection objective** **stabilises**, the **allied character** may choose for all effects that target them self to target the **protection objective** instead. Additionally when the **protection objective** is hit by an attack any adjacent characters may brace, granting it **resistance** and **difficulty** on attacks against it instead of themself.
 #### Optional objective traits
 ##### Manned
-The **protection objective** gains sensors of 10, and access to all NPC actions. Additionally it may choose up to two weapons or systems from other NPC classes and equip them. However when it takes **structure damage** one of these weapons or systems must be destroyed.  The **protection objective** takes it's turn at the end of the round after all other characters have taken their turn.
+The **protection objective** gains sensors of 10, and access to all NPC actions. Additionally it may choose up to two weapons or systems from other NPC classes and equip them. However when it takes **structure damage** one of these weapons or systems must be destroyed. The **protection objective** takes it's turn at the end of the round after all other characters have taken their turn.
 ##### Relay
 The **protection objective** gains the **commander** NPC template, ignoring the **reinforced** trait.
 ##### Armoured
