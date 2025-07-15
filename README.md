@@ -20,6 +20,6 @@ _Lancer_ is copyright Massif Press.
 ## Chapter 3
 ## Chapter 4
 ## Appendix
+- [Aces](Appendix/Aces.md)
 ### New NPC Templates
 - [NPC Templates](Appendix/NPC%20Templates.md)
-- [Aces](Appendix/Aces.md)
