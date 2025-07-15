@@ -8,7 +8,7 @@ The **Aerial** may choose **optional systems** and traits from the **Aerial syst
 
 #### VULNERABLE FLIGHT LINKAGE
 *Trait*
-All hostile characters gain an additional **invade** option when targeting the **Aerial****:** “The **Aerial** is forced to land if they are flying, and the **Aerial** cannot fly until the end of their next turn.” All characters are aware of this trait.
+All hostile characters gain an additional **invade** option when targeting the **Aerial**: “The **Aerial** is forced to land if they are flying, and the **Aerial** cannot fly until the end of their next turn.” All characters are aware of this trait.
 
 ### FLIGHT SYSTEMS
 #### JUMP BOOSTERS
@@ -22,10 +22,7 @@ The **Aerial** may choose to count any and all of their movement as **flying**; 
 #### ROTARY BLADES
 The **Aerial** may hover when it moves; however, they take **Size + 1 heat** at the end of any turns in which they **fly** this way.
 
-Additionally whenever the **Aerial** takes damage whilst **hovering**, they must make an engineering check. On a failure, this system is immediately destroyed and Airborne begins to fall.
-
-%%Balance this to be a better cost, save on damage is probs a tad too fragile.%%
-
+Additionally whenever the **Aerial** takes damage that would reduce it below half **HP** whilst **hovering**, they must make an engineering check. On a failure, this system is immediately destroyed.
 ### AERIAL SYSTEM AND TRAITS
 #### DIVE BOMB
 *Trait, Free action, 1/round*
@@ -41,8 +38,8 @@ The **Aerial** may elect a character within range equal to their speed and withi
 **Effect:** The **Aerial** flies to a space free and adjacent to target. There must be a path to do so even if the nominated character is no longer within the **Aerial’s** movement range or line of sight. This ignores engagement and does not provoke reactions
 
 #### BOMBING BAY
-*Main Launcher, +2/+4/+6*
-\[range 10\]\[blast 1\]\[4/5/6 explosive\]
+*Main Launcher, +1/+2/+3, knockback 2*
+\[range 10\]\[blast 1\]\[3/4/5 explosive\]
 This weapon can only target directly below the **Aerial** and adjacent tiles. Additionally if the **Aerial** interrupts movement to attack with this weapon, it may continue the movement without triggering reactions.
 
 #### FUEL INJECTION BURST
@@ -54,6 +51,9 @@ When the **Aerial** moves whilst flying, they may move up to an additional 4 spa
 Every time the Aerial attacks whilst flying, it may take **2 heat** to **fly** 2 spaces after the attack has resolved.
 
 ### Fielding Aerial NPC's
+The Aerial template is designed to give existing NPC's the ability for greater manoeuvrability options and the ability to fly, staying out of range or attacking from above at the cost of large amounts of heat generation and being vulnerable to control effects along with allowing players a new invade option to prevent them from using their flight. Abilities allow NPCs to travel further distance, Fuel injection burst and strafe can get extra leverage out of flying or even attacking interrupting their jump boosters to get extra leverage into the distance travelled, or On your tail can be used to provide a scare when a slow enemy leaps across the other side of the map whilst also giving ample time of preparation and heat cost.
+
+The counter to Aerial NPC's is control effects and hacking, giving opportunities for basic invades or nuclear cavalier to push an NPC over their heatcap from their systems already melting them, and being vulnerable to a basic invade option everyone gains access to which can shut down all their kit for a turn. This means that their weaknesses are profound but if a player party has nothing to counter it, they are not in for a good time. If your players are mostly close quarters or have limited or close range hacking capability, I recommend keeping a low number of Aerial NPCs during a mission. I heavily recommend briefing your players about Aerial NPCs during a mission briefing alongside their weaknesses and strengths if you plan on bringing a strong Aerial opfor so your players know to bring longer range weapons if they are already ill equipped.
 
 
 ## Covert
@@ -71,11 +71,32 @@ When selecting optional systems, the **Covert** can also choose from the **Cover
 ### COVERT OPTIONAL SYSTEMS AND TRAITS LIST
 #### BLIND SPOT
 *System, Quick tech, +1/+2/+3*
-The **Covert** makes a tech attack against a hostile character within sensors. On a hit, the **Covert** is not to be in line of sight of them until the end of their next turn.
-
+The **Covert** makes a tech attack against a hostile character within sensors. On a hit, the **Covert** is considered not to be in line of sight of them until the end of their next turn.
 #### CONCEAL
 *System, Full action, Recharge 5+*
-As a full action the **Covert** may hide. Whilst hidden this way, the **Covert** is not visible to all players and their location is only known by the Game master. This is broken if the **Covert** is no longer **hidden**, performs any action that targets any other character or is directly targeted by an action from an ally or if the **Covert** is involuntarily removed. Whilst **hidden** this way, all actions the **Covert** takes are known to all characters, all characters know if the **Covert** is caught in an area of effect from a hostile character and if a character attempts to search for the **Covert** they automatically learn whether the **Covert** is within **Sensors**, and if they are their distance from the character.
+As a full action the **Covert** may hide. Whilst hidden this way, the **Covert** is not visible to all players and their location is only known by the Game master. This is broken if the **Covert** is no longer **hidden**, performs any action that affects any other character, is directly targeted by an action from an ally or if the **Covert** is involuntarily moved. Whilst **hidden** this way, all actions the **Covert** takes are known to all characters, all characters know if the **Covert** is caught in an area of effect from a hostile character and if a character attempts to search for the **Covert** they automatically learn whether the **Covert** is within **Sensors**, and if they are their distance from the character.
 
 This system replaces **FAST AND LOW**
+#### NASTY SURPRISE
+*System, reaction, recharge 6+*
+**Trigger:** The **Covert** is revealed during another characters turn
+**Effect:** If the triggering character is within range 5, the **Covert** throws a stun grenade at the them. The triggering character must succeed on a **systems save**. On a failure the they become **impaired** and unable to take reactions until the end of their next turn. Then the **Covert** may move up to their speed.
+#### I WAS NEVER HERE
+*System, Quick action, Recharge 5+*
+As a quick action, all tiles the **Covert** occupies become an area of **Soft cover** until the start of their next turn. Then the **Covert** may **hide** and move up to their speed.
+%%They can just do this with smoke charge. Is flavourful as it is, it can be axed%%
+#### SMOKE CHARGE
+*System, Quick action, Recharge 4+*
+As a quick action, the **Covert** may throw a smoke grenade at a point in **range 5**. This area becomes **blast 2** area of **soft cover** until the end of their next turn.
+#### REELING STRIKE
+*Trait*
+If the **Covert** started their turn **hidden**, the first attack they make may cause the target to make a **Hull save** on hit. On a failure, the target is knocked prone and 
 
+### Playing Coverts
+Coverts are designed to add additional options to an opfor to assist with stealth, giving them rewards whilst hidden or easier access into the ability to hide. Abilities like blind spot has the ability to turn off line of sight to a target meaning they cannot be flanked or smoke charges create areas of smoke for them self and allies to hide within. Whilst other abilities such as Reeling strike rewards characters for remaining hidden by empowering their next attack, and conceal as a power has lots of limitations but is able to take away assumptions from the core game, removing information from the players that can outplayed with inquisitive thinking and the tools available.
+
+There is a lot of variance among the options the Covert gains to benefit all sorts of NPC classes with the benefitting of hiding, but be weary on how they are distributed and the classes you distribute them to. Hide is already a potent tool to be used by NPCs and it's strength isn't to be slept on when it comes to the "optimal move" for an NPC to make.
+
+When creating a Covert NPC, look into the existing strengths and weaknesses of the NPC and it's allies when determining it's strengths. Be weary putting any of these abilities which is already good at hiding, specters are already very good at everything this trait provides and doesn't require much more. Using Nasty surprise on an NPC with a fast base speed or lots of movement options. And abilities like Conceal gets better if the Covert NPC is better at remaining hidden, such as if it is under the effect or dataveil or has tactical cloak so exercise caution when using this. Also... Please don't use Conceal on seeders... Or atleast make their mines visible when deployed.
+
+Coverts will also be very reliant on map layout. Large pieces of line of sight blocking terrain should be used and spots for the Coverts to move from cover to cover whilst also having ample opportunity to be flanked and revealed.
