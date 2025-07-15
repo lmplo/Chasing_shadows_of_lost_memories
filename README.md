@@ -3,7 +3,7 @@
 **Written By**
 Alfred Greenwood
 
-![Powered by Lancer](Assets/powered_by_lancer-white.svg)
+![Powered by Lancer](Assets/powered_by_Lancer-white.svg)
 **Chasing shadows of lost memories** is not an official _Lancer_ product; it is a third party work, and is not affiliated with Massif Press. **Chasing shadows of lost memories** is published via the _Lancer_ Third Party License.
 
 Chasing shadows of lost memories © 2025 by Alfred Greenwood.
