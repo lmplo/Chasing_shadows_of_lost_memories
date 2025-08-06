@@ -100,3 +100,74 @@ There is a lot of variance among the options the Covert gains to benefit all sor
 When creating a Covert NPC, look into the existing strengths and weaknesses of the NPC and it's allies when determining it's strengths. Be weary putting any of these abilities which is already good at hiding, specters are already very good at everything this trait provides and doesn't require much more. Using Nasty surprise on an NPC with a fast base speed or lots of movement options. And abilities like Conceal gets better if the Covert NPC is better at remaining hidden, such as if it is under the effect or dataveil or has tactical cloak so exercise caution when using this. Also... Please don't use Conceal on seeders... Or atleast make their mines visible when deployed.
 
 Coverts will also be very reliant on map layout. Large pieces of line of sight blocking terrain should be used and spots for the Coverts to move from cover to cover whilst also having ample opportunity to be flanked and revealed.
+
+## Legion
+*NHP's are capable of such tremendous feats within the copilots seat, Manifest perfect recreations of reality to the minute detail, incredible and unnatural management of heat systems within a mech, delete what is perceived to be reality... Legions of NHPs take the helm of ships unleashing devestating barrages of anti-causal thought comparable to weapons of mass destruction. And did you really think in this solar system you would be pilots fortunate enough to have a co-pilot on this scale?*
+
+### TEMPLATE FEATURES
+#### NHP Co-pilot
+*Trait*
+When selecting **optional systems**, **Veteran traits**, **Commander traits** or **Ultra traits**, the **Legion** must select one of the NHP's from the **Legion NHP list**. This NHP is capable of cascading (Core rulebook, Page 107).
+
+Additionally when selecting **optional systems**, the **Legion** may select from the **Legion optional systems** list.
+#### Bespoke systems
+*Trait*
+The **Legion template** can only be on NPC's with 2 or more base **structure** or if that NPC has a trait which allows it to be the only NPC of that type in the scene.
+
+### Legion NHP list
+#### SEKHMET-Class NHP
+*System, protocol, AI*
+As a protocol, the **Legion** may activate **SEKHMET protocol**. Whilst under the effects of **SEKHMET protocol** the **Legion** gains the **deadly** trait if it did not already have it (+1d6 **bonus damage** on **critical hits**) and 1/Round may perform a **ram**, **grapple**, **skirmish** or **Improvised attack** as a **free action**.
+
+Additionally, the **Legion** must use all available movement to move towards the closest visible character and attack them with **melee attacks**. If there are no characters within threat the **Legion** must use all actions available to get as close as possible to the closest character.
+
+**SEKHMET protocol** lasts until the end of the scene, the **Legion** is destroyed or until the **Legion** takes a protocol to end it, becoming **Stunned** until the end of their next turn.
+
+#### ATHENA-Class NHP
+*System, AI*
+As a **quick action**, the **Legion** may create a **Simulacra** in a **blast 3** area in **range 50**. Hostile characters within the area cannot become **invisible** and cannot **hide**. Hostile characters that end their turn within the area cease to be **invisible** or **hidden** and gain **Lock-on**.
+
+The **simulacra** lasts until the end of the scene or until another **Simulacra** is made
+
+#### TLALOC-Class NHP
+*System, AI, IDK*
+
+#### DIDYMOS-Class NHP
+*System, quick tech, recharge 5+, AI*
+As a quick action the **Legion** may select an allied character in **line of sight** and **sensors** causing a time split of that character, creating a duplicate character with the same stats, size and appearance in a free adjacent space to the original character. Whilst under this effect, both characters have their own standard movement but share actions alongside their limitations, these actions may originate from either character. If either character takes damage, heat, fails a save, is hit by an attack or receives a condition or status from a hostile source, that immediately vanishes, ending this effect as the other character continues to perform as normal.
+#### OSIRIS-Class NHP
+*System, quick tech, recharge 4+, AI, +2/+4/+6*
+The **Legion** may make a **tech attack** against a character within **sensors**, on a hit the target takes **2 heat**, becomes **impaired** and **slowed** until the end of their next turn, additionally every character in the scene treats the target as a hostile character and the target treats every character in the scene as a hostile character until the end of their next turn.
+#### SCYLLA-Class NHP
+*System, reaction, 2/round, AI*
+**Trigger:** A target attacks an allied character within **range 3**
+**Effect:** The **legion** may attack the target, dealing **half** **damage**, **heat** and **burn** on hit.  
+#### SISYPHUS-Class NHP
+*System, reaction, 2/round, AI*
+**Trigger:** An **attack**, **check** or **save** is rolled by a character within **sensors**
+**Effect:** The **Legion** forces the character to re-roll it
+#### AGNI-Class NHP
+*System, protocol, 1/Scene, AI*
+As a **protocol** the **Legion** may activate **AGNI-Protocol** until the end of the current turn, whilst under the effects of **AGNI-Protocol** the **Legion** cannot exceed it's **heat cap** this turn and at the end of the turn clears **all heat**, venting it into a **burst 2** area. all characters in the area must make an **engineering save** or take **3/4/5 burn** and be pushed outside the area (or as close as possible)
+#### ASURA-Class NHP
+*System, protocol, 1/Scene, 4 heat (self), AI*
+As a **protocol** the **Legion** may expend a charge, if it does so the **Legion** may activate one more time this round
+#### LUCIFER-Class NHP
+*System, protocol, 1/Scene, 6 heat (self), AI*
+As a **protocol** the **Legion** may deal **4/6/8 burn**  as **bonus damage** on the next **ranged** or **melee attack** the **Legion** makes, additionally the **base damage** of the **attack** becomes **energy damage**. %%Damage numbers need more crunching%%
+#### NOAH-Class NHP
+*The fuck do I put for you?*
+### Legion optional systems
+#### Emergency cycling systems
+*System, protocol, 1/Scene*
+The **Legion**'s pilot may perform this **protocol** whilst **cascading** entering an **emergency state** until the start of their next turn. During the **emergency state** the **Legion** clears all **heat**, becomes **immune** to **tech actions** and **heat** and is **stunned** for the duration. Additionally the **Legion NHP** is disconnected safely from the **Legion** begins emergency cycling, this is represented by the **Legion NHP** system being destroyed.
+
+#### Remote access
+*Trait*
+One **NHP NPC** may become a **handler**, this **NHP** may be an existing **Legion NHP** or not present in the scene. The handler may control as many **RPV**'s in the scene as the GM allows granting them the **Legion** template and this **trait** regardless of the **RPV's** structure count. All **RPV**'s with the **Legion** template cannot enter cascade unless the handler enters cascade. Additionally, all **Legion RPV**'s in the scene share the **NHP Legion system**, all of them are locked to the same **X/Round**, **X/Scene** and **recharge** limitations, resetting on the **Handler**'s first turn in a round or the **first RPV** of the round if the **handler** is not present in the scene.
+
+If the **Handler** becomes **jammed** all **Legion RPV**'s lose access to all **Legion trait's** and **systems**, if a **Legion RPV** becomes **jammed** it loses access to all **Legion trait**'s and **systems**
+
+#### Deep cascade
+*Trait*
+This trait may only be taken by an **Ultra** and counts as an **Ultra trait**, this **Legion** cannot enter **cascade** as it is already **cascading**. Whilst **cascading** the abilities granted by the **Legion NHP** are allowed to run rampant increasing in power. All **Recharge 4+** systems lose the **Recharge** tag, all **Recharge 5+** and **Recharge 6+** subtract **1** from the recharge value (turning them into **recharge 4+** and **5+** respectively). **X/Round** and **X/Scene** abilities uses are gain an additional use per **round** or **scene**. And if the **NHP** can create an effect that lasts until the **action** is performed again or until the end of **scene**, it may generate that effect twice before, upon creating a third copy of the effect one of the previous one's must end.
