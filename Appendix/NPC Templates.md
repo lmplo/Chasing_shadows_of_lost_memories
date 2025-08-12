@@ -139,11 +139,13 @@ As a quick action the **Legion** may select an allied character in **line of sig
 *System, quick tech, recharge 4+, AI, +2/+4/+6*
 The **Legion** may make a **tech attack** against a character within **sensors**, on a hit the target takes **2 heat**, becomes **impaired** and **slowed** until the end of their next turn, additionally every character in the scene treats the target as a hostile character and the target treats every character in the scene as a hostile character until the end of their next turn.
 #### SCYLLA-Class NHP
-*System, reaction, 2/round, AI*
+*System, quick action, 1/round, AI*
+Once per round as a **quick action** the **Legion** may select a target 
+
 **Trigger:** A target attacks an allied character within **range 3**
 **Effect:** The **legion** may attack the target, dealing **half** **damage**, **heat** and **burn** on hit.  
 #### SISYPHUS-Class NHP
-*System, reaction, 2/round, AI*
+*System, reaction, 1/round, AI*
 **Trigger:** An **attack**, **check** or **save** is rolled by a character within **sensors**
 **Effect:** The **Legion** forces the character to re-roll it
 #### AGNI-Class NHP
@@ -151,7 +153,7 @@ The **Legion** may make a **tech attack** against a character within **sensors**
 As a **protocol** the **Legion** may activate **AGNI-Protocol** until the end of the current turn, whilst under the effects of **AGNI-Protocol** the **Legion** cannot exceed it's **heat cap** this turn and at the end of the turn clears **all heat**, venting it into a **burst 2** area. all characters in the area must make an **engineering save** or take **3/4/5 burn** and be pushed outside the area (or as close as possible)
 #### ASURA-Class NHP
 *System, protocol, 1/Scene, 4 heat (self), AI*
-As a **protocol** the **Legion** may expend a charge, if it does so the **Legion** may activate one more time this round
+As a **protocol** the **Legion** may activate one more time this round.
 #### LUCIFER-Class NHP
 *System, protocol, 1/Scene, 6 heat (self), AI*
 As a **protocol** the **Legion** may deal **4/6/8 burn**  as **bonus damage** on the next **ranged** or **melee attack** the **Legion** makes, additionally the **base damage** of the **attack** becomes **energy damage**. %%Damage numbers need more crunching%%
